@@ -1,0 +1,60 @@
+/*
+Theme Name: Sydney Child
+Theme URI: http://athemes.com/theme/sydney
+Author: aThemes
+Author URI: http://athemes.com
+Template: sydney
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: sydney
+*/
+
+.roll-testimonials-scroller {
+	max-width: 950px;
+	margin: 0 auto 30px;
+	text-align: center;
+}
+.roll-testimonials-scroller .avatar {
+	width: 100px;
+	margin: 7px auto 26px;
+	border: 2px solid #fff;
+}
+.roll-testimonials-scroller .avatar,
+.roll-testimonials-scroller .avatar img {
+	-webkit-border-radius: 50%;
+	   -moz-border-radius: 50%;
+		 -o-border-radius: 50%;
+			border-radius: 50%;	
+}
+.roll-testimonials-scroller .whisper {
+	font-size: 18px;
+	font-style: italic;
+	line-height: 26px;
+	padding: 0 0 20px;
+	margin: 0;
+	border: 0;
+}
+.roll-testimonials-scroller .name {
+	font-family: "Raleway", sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+}
+.roll-testimonials-scroller .name span {
+	font-size: 13px;
+	display: block;
+	color: #767676;
+}
+.roll-testimonials-scroller .owl-controls {
+	margin-top: 40px;
+}
+.hentry .roll-testimonials-scroller blockquote {
+	background: transparent;
+}
+
+.roll-testimonials-scroller .name {
+	font-family: "Raleway", sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	color: #d65050;
+}
