@@ -1,8 +1,7 @@
 # sydney-child
 sydney-child theme for testimonial scroller using slick slider
 
-1. Download and install this child theme like installing other themes
-
+1. Download and install this child theme like installing other themes 
 Note: You should have installed and activated the parent theme (Sydney)
 2. Edit your pages where you have the testimonial widget
 3. Removed the default testimonial widget and add "Sydney FP: Testimonials Scroller"
